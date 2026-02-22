@@ -1,1 +1,3 @@
-алексей молодой гей
+Fix: fixed crash
+Fix: for last game update
+pastality.win
