@@ -1,3 +1,2 @@
 Fix: fixed crash
 Fix: for last game update
-Pastality.win
