@@ -1,10 +1,8 @@
-Update
-Added Aimbot "Fov, smoothing, hitbox, silentaim, remove smoothing"
-Added Chams types "latex, flat, bloom, xray, glow"
-Added ESP "box, armor, health, name, health text, ESP colors"
-Added Chatspamer
+ Update 
+- Added weapon chams "latex, flat, bloom, xray, glow"
+- Fixed misc tab
 —————————————————
-Обновление
-Добавлены типы чатов: "Латекс, плоский, свечение, рентгеновский луч, свечение"
-Добавлены ESP-эффекты: "Коробка, броня, здоровье, имя, текст здоровья, цвета ESP"
-Добавлен чат-спамер
+
+Обновление 
+- Добавлены эффекты изменения внешнего вида оружия: "латекс, плоский, размытие, рентгеновское излучение, свечение"
+- Исправлена ​​вкладка "Разное"
